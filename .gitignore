@@ -4,3 +4,6 @@ Thumbs.db
 node_modules/
 .vscode/
 .idea/
+
+# PPTX 源文件（仅网页需要发布，这些无需上传）
+pptx_extracted/
